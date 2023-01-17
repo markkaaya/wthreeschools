@@ -1,0 +1,82 @@
+.topnav  > ul > li{
+     display: inline;
+        /* list-style-type: none;
+        margin: 0;
+        padding: 0; */
+        overflow: hidden;
+  float: left;
+}
+.logo{
+    color: green;
+    float:inline-start;
+    background-color: yellowgreen;
+}
+ a {
+  display: block;
+  padding: 8px;
+  background-color: lightgray;
+ }
+ #pan:hover{
+    /* color:darkcyan; */
+    background-color: yellowgreen;
+    border-radius: 30px;
+    font-size: larger;
+    margin-left: 10px;
+    color: crimson;
+ }
+ #pane:hover{
+background-color: aqua;
+border-radius: 30px;
+font-size: larger;
+margin-left: 10px;
+color: crimson;
+ }
+ #panda:hover{
+background-color: chartreuse;
+border-radius: 30px;
+font-size: larger;
+margin-left: 10px;
+color: crimson;
+
+ }
+ #toll:hover{
+background-color: yellow;
+border-radius: 30px;
+font-size: larger;
+margin-left: 10px;
+color: crimson;
+ }
+    /* list-style-type: none;
+        margin: 0;
+        padding: 0; */
+}
+.subnav >ul > li{
+    display: inline;
+    /* overflow: hidden; */
+    background-color: royalblue;
+    float: left;
+}
+#hed{
+    font-weight: bolder;
+    font-size: large;
+color: green;
+}    
+  .w3-sidebar-block > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+    background-color: cyan;
+    width: 200px;
+  }   
+  .w3-sidebar-block >li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: red;
+    color: white;
+  }
+ 
